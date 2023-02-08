@@ -3,7 +3,7 @@ title:       Sil7T
 email:       siyuanta@usc.edu
 author:      Steven Tang
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     "Sil7T.github.io"
+baseurl:     "/Sil7T.github.io"
 url:         "https://Sil7T.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
