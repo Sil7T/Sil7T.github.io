@@ -24,7 +24,7 @@ jobs:
     - name: Setup Ruby, JRuby and TruffleRuby
       uses: ruby/setup-ruby@v1.136.0
       with:
-        ruby-version: 2.7.x
+        ruby-version: 3.0
     - name: Bundle install
       run: |
         bundle config path vendor/bundle
