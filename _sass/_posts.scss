@@ -4,8 +4,8 @@
 }
 
 .posts .post {
-  margin-bottom: 0.75em;
-  border-bottom: thin solid #f3f3f3;
+  margin-bottom: 0;
+  // border-bottom: thin solid #f3f3f3;
 }
 
 .posts .post:last-child {
@@ -45,4 +45,15 @@
 
 .related-post-title {
   border-bottom: thin solid #f3f3f3;
+}
+
+.index-date{
+  display: inline-block; 
+  font-size: 0.8em; 
+  min-width: 6em;
+}
+
+.index-post{
+  font-size: $h4;
+  margin: 0;
 }
